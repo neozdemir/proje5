@@ -1,0 +1,39 @@
+C:\Users\ndirier\Desktop\varmısınyokmusun\varmısınyokmusun\bin\Debug\varmısınyokmusun.exe.config
+C:\Users\ndirier\Desktop\varmısınyokmusun\varmısınyokmusun\bin\Debug\varmısınyokmusun.exe
+C:\Users\ndirier\Desktop\varmısınyokmusun\varmısınyokmusun\bin\Debug\varmısınyokmusun.pdb
+C:\Users\ndirier\Desktop\varmısınyokmusun\varmısınyokmusun\obj\Debug\varmısınyokmusun.csprojResolveAssemblyReference.cache
+C:\Users\ndirier\Desktop\varmısınyokmusun\varmısınyokmusun\obj\Debug\varmısınyokmusun.Form1.resources
+C:\Users\ndirier\Desktop\varmısınyokmusun\varmısınyokmusun\obj\Debug\varmısınyokmusun.Properties.Resources.resources
+C:\Users\ndirier\Desktop\varmısınyokmusun\varmısınyokmusun\obj\Debug\varmısınyokmusun.csproj.GenerateResource.Cache
+C:\Users\ndirier\Desktop\varmısınyokmusun\varmısınyokmusun\obj\Debug\varmısınyokmusun.exe
+C:\Users\ndirier\Desktop\varmısınyokmusun\varmısınyokmusun\obj\Debug\varmısınyokmusun.pdb
+C:\Users\ndirier\Desktop\varmısınyokmusun\varmısınyokmusun\obj\Debug\varmısınyokmusun.Form2.resources
+C:\Users\ndirier\Desktop\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\bin\Debug\varmısınyokmusun.exe.config
+C:\Users\ndirier\Desktop\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\obj\Debug\varmısınyokmusun.exe
+C:\Users\ndirier\Desktop\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\obj\Debug\varmısınyokmusun.pdb
+C:\Users\ndirier\Desktop\Geliştirilecek Projeler\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\bin\Debug\varmısınyokmusun.exe.config
+C:\Users\ndirier\Desktop\Geliştirilecek Projeler\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\obj\Debug\varmısınyokmusun.exe
+C:\Users\ndirier\Desktop\Geliştirilecek Projeler\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\obj\Debug\varmısınyokmusun.pdb
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\bin\Debug\varmısınyokmusun.exe.config
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\obj\Debug\varmısınyokmusun.exe
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\obj\Debug\varmısınyokmusun.pdb
+C:\Users\ndirier\Desktop\Yazılım Projelerim\Geliştirilecek Projeler\Form\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\bin\Debug\varmısınyokmusun.exe.config
+C:\Users\ndirier\Desktop\Yazılım Projelerim\Geliştirilecek Projeler\Form\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\obj\Debug\varmısınyokmusun.exe
+C:\Users\ndirier\Desktop\Yazılım Projelerim\Geliştirilecek Projeler\Form\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\obj\Debug\varmısınyokmusun.pdb
+C:\Users\ndirier\Desktop\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\bin\Debug\varmısınyokmusun.exe
+C:\Users\ndirier\Desktop\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\bin\Debug\varmısınyokmusun.pdb
+C:\Users\ndirier\Desktop\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\obj\Debug\varmısınyokmusun.csprojResolveAssemblyReference.cache
+C:\Users\ndirier\Desktop\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\obj\Debug\varmısınyokmusun.Form1.resources
+C:\Users\ndirier\Desktop\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\obj\Debug\varmısınyokmusun.Form2.resources
+C:\Users\ndirier\Desktop\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\obj\Debug\varmısınyokmusun.Properties.Resources.resources
+C:\Users\ndirier\Desktop\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\obj\Debug\varmısınyokmusun.csproj.GenerateResource.Cache
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\bin\Debug\varmısınyokmusun.exe.config
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\obj\Debug\varmısınyokmusun.exe
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\obj\Debug\varmısınyokmusun.pdb
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\bin\Debug\varmısınyokmusun.exe
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\bin\Debug\varmısınyokmusun.pdb
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\obj\Debug\varmısınyokmusun.csprojResolveAssemblyReference.cache
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\obj\Debug\varmısınyokmusun.Form1.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\obj\Debug\varmısınyokmusun.Form2.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\obj\Debug\varmısınyokmusun.Properties.Resources.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\varmısınyokmusun (1)\varmısınyokmusun\varmısınyokmusun\obj\Debug\varmısınyokmusun.csproj.GenerateResource.Cache
